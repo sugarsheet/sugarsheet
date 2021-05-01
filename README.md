@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sugarsheet
-- 👀 I’m interested in learning more about how Github works
+- 👀 I’m interested in learning more about XYZ
 - 🌱 I’m currently learning Ruby and JavaScript
 - 💞️ I’m looking to collaborate on ...? (Unsure)
 - 📫 How to reach me ...
