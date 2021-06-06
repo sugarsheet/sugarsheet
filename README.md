@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sugarsheet
-- 👀 I’m interested in learning more about Ruby on Rails and Javascript
-- 🌱 I’m currently making an app for book reviews
+- 👀 I’m interested in building fun apps
+- 🌱 I’m currently working on an app to make you enjoy reading by finding books that fits your taste
 - 💞️ I’m looking to collaborate on more projects!
-- 📫 You can reach me through Linkedin :)
+- 📫 You can reach me on Linkedin :)
 
 <!---
 sugarsheet/sugarsheet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
