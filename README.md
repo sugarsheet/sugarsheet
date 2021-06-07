@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on an app for book recommendations
 - :star: Batch #591 - le Wagon Paris 
 - 💞️ I’m looking to collaborate on more projects!
-- 📫 You can reach me on Linkedin :)
+- 📫 You can reach me on Linkedin :coffee:
 
 <!---
 sugarsheet/sugarsheet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
