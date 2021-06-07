@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sugarsheet
 - 👀 I’m interested in building fun apps
 - 🌱 I’m currently working on an app for book recommendations
+- :star: Batch #591 - le Wagon 
 - 💞️ I’m looking to collaborate on more projects!
 - 📫 You can reach me on Linkedin :)
 
