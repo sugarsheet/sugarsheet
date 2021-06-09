@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sugarsheet
 - 👀 I’m interested in building fun apps
 - 🌱 I’m currently learning Javascript (30 day challenge!)
-- 💞️ I’m looking to collaborate on more projects!
+- 💞️ I’m looking to collaborate on more projects
 - :star: Batch #591 - le Wagon Paris 
 - 📫 You can reach me on Linkedin :coffee:
 
