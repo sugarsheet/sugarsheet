@@ -1,11 +1,14 @@
 - 👋 Hi, I’m @sugarsheet
 - 👀 I’m interested in building fun apps
 - 💞️ I’m looking to collaborate on more projects
+- - 🍎 When i am not coding, i do 🧘‍♀️
+- 
 - :star: Batch #591 - le Wagon Paris 
+- 
 - 📫 You can reach me on Linkedin :coffee:
 
 
-- 🍎 When i am not coding, i do 🧘‍♀️
+
 
 
 
