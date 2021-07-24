@@ -3,7 +3,7 @@
 - :seedling: I’m looking to collaborate on more projects
 - 🍎 When i am not coding, i do 🧘‍♀️
 - :star: Batch #591 - le Wagon Paris
-- 📫 You can reach me on Linkedin
+
 
 
 
