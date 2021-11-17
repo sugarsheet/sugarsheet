@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @sugarsheet
+- 👋 Hi, it's @sugarsheet
 - 👀 I’m interested in building fun apps
 - 🍎 When i am not coding, i do 🧘‍♀️
 - :star: Batch #591 - le Wagon Paris
+
+
 
 
 
