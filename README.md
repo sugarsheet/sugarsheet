@@ -1,6 +1,4 @@
-- 👋 Hi, it's @sugarsheet
-- 👀 I’m interested in building fun apps
-- 🍎 When i am not coding, i do 🧘‍♀️:woman_juggling:
+- 👋 Hi, it's Jiwon
 - :star: Batch #591 - le Wagon Paris
 
 
