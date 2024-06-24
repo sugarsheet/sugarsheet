@@ -1,4 +1,4 @@
-- 👋 Hi, it's Jiwon
+- 👋 
 - :star: Batch #591 - le Wagon Paris
 
 
